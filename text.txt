@@ -1,1 +1,2 @@
 test config
+2nd change for #1addtext
